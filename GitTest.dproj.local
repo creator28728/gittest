@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/11/27 14:36:01.000.258,=C:\Users\saktas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/11/27 15:34:30.000.752,=C:\Users\saktas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/12/03 13:58:34.000.159,=C:\Users\saktas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/12/03 14:01:32.000.219,=C:\Users\saktas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/12/07 13:38:11.000.297,=C:\Users\saktas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/12/07 13:42:50.000.860,=C:\Users\saktas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/12/07 14:22:29.000.291,=C:\Users\saktas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/12/07 14:40:49.000.383,=C:\Users\saktas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/12/09 09:54:08.000.994,=C:\Users\saktas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/12/10 14:51:45.000.691,=C:\Users\saktas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/12/10 18:19:01.000.462,C:\Users\saktas\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\saktas\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2017/11/03 15:17:08.000.515,=C:\Users\saktas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/11/03 15:33:04.000.315,=C:\Users\saktas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/10/23 09:06:38.107,=C:\Users\saktas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/10/23 09:07:00.086,C:\Users\saktas\Documents\Embarcadero\Studio\Projects\gittest\UgitTest.dfm=C:\Users\saktas\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/10/23 09:07:00.086,C:\Users\saktas\Documents\Embarcadero\Studio\Projects\gittest\UgitTest.pas=C:\Users\saktas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/10/23 09:07:06.223,C:\Users\saktas\Documents\Embarcadero\Studio\Projects\gittest\GitTest.dproj=C:\Users\saktas\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
